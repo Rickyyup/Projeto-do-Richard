@@ -1,0 +1,15 @@
+body {
+    color:white;
+    background-color: black;
+margin: 0px;
+}
+
+header{
+    border-bottom: solid 0px darkred ;
+    font-size: 20px;
+    color: darkred;
+}
+
+section{
+    background-color: rgb(39, 9, 0);
+}
